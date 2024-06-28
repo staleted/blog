@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+<div>
 <img class="col one right" src="{{ site.baseurl }}/img/prof_pic.jpg">
 
 <br/>
@@ -11,8 +12,10 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
 
-
 <br/>
+</div>
+
+
 <hr/>
 <br/>
 <span class="contacticon center">
