@@ -9,17 +9,3 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
 <br/>
-
-
-<hr/>
-<br/>
-<span class="contacticon center">
-	<a href="https://github.com" target="_blank"><i class="fa-brands fa-github"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa-brands fa-google-scholar"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-</span>
-
-<div class="col three caption">
-	Copyright &copy; 2024 Ted Staley
-</div>
-
