@@ -7,12 +7,17 @@
       <div class="trigger">
         <!-- {{ site.title }} instead of blog -->
         <a class="page-link" href="{{ site.baseurl }}/">Home</a>
+        <a class="page-link" href="{{ site.baseurl }}/about/">About</a>
+        <a class="page-link" href="{{ site.baseurl }}/blog/">Blog</a>
+        <a class="page-link" href="{{ site.baseurl }}/research/">Research</a>
+        <a class="page-link" href="{{ site.baseurl }}/projects/">Projects</a>
+        <a class="page-link" href="{{ site.baseurl }}/other/">Other</a>
 
-        {% for page in site.pages %}
+<!--         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
 
       </div>
     </nav>
