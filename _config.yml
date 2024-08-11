@@ -19,17 +19,17 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  posts:
+  1posts:
     output: true
     permalink: /posts/:path/
-  research:
+  2research:
     output: true
     permalink: /research/:path/
-  projects:
+  3projects:
     output: true
     permalink: /projects/:path/
-  other:
+  4other:
     output: true
-    permalink: /xother/:path/
+    permalink: /other/:path/
 
 

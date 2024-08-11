@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /xother/
-title: Other Things
+permalink: /other/
+title: Other
 description: Showcase your writing, short stories, or poems. Replace this text with your description.
 ---
 
