@@ -28,8 +28,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  recipes:
+  other:
     output: true
-    permalink: /recipes/:path/
+    permalink: /xother/:path/
 
 
