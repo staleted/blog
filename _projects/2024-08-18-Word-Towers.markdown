@@ -3,6 +3,7 @@ layout: post
 title:  Word Towers
 date:   2024-08-18
 description: A Daily Word Game
+permalink: /this-is-the-unique-permalink/
 ---
 
 
