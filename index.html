@@ -7,6 +7,7 @@ layout: default
 
 <h1>Ted Staley</h1>
 
+<div>
 <br/>
 I am a senior researcher at the Johns Hopkins Applied Physics Lab (APL), where I work in the AI R&D group studying reinforcement learning, foundation models, and robotics. I am interested in how general robotic control policies can be trained at scale, leveraging expert demonstrations and broader unlabeled datasets. Ultimately, I believe our most promising path towards general robotic agents lies in humanoid robotics, because it uses a common platform geometry, closes the gap between robotic systems and human demonstrations, and could leverage existing data about humans.
 <br/>
@@ -18,6 +19,7 @@ Beyond work and teaching I try to maintain personal projects which may or may no
 <br/>
 <br/>
 I also like to cook :)
+</div>
 
 <br/>
 <br/>
@@ -30,8 +32,8 @@ I also like to cook :)
     {% for post in paginator.posts %}
       <li>
         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <p>{{ post.description }}</p>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+        <p>{{ post.excerpt  }}</p>
         <br/>
         <hr/>
       </li>
