@@ -5,9 +5,9 @@ title: Research
 description: Research
 ---
 
-<br/>
 Details on my formal publications, research interests, and paper reviews. Note that I publish under my full name, Edward W. Staley. My full publications list can be found on Google Scholar.
 <br/>
+<hr/>
 
 <ul class="post-list">
 {% for poem in site.research reversed %}
