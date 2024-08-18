@@ -2,12 +2,13 @@
 layout: page
 permalink: /research/
 title: Research
-description: Research
+description: 
 ---
 
 Details on my formal publications, research interests, and paper reviews. Note that I publish under my full name, Edward W. Staley. My full publications list can be found on Google Scholar.
 <br/>
 <hr/>
+<br/>
 
 <ul class="post-list">
 {% for poem in site.research reversed %}
