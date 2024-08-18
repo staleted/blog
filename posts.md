@@ -2,8 +2,10 @@
 layout: page
 permalink: /blog/
 title: Blog
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: All my posts, in one list.
 ---
+
+All my posts end up here. They are also split out into categories: Research (details on my publications and reviews of papers I find interesting), Projects (things I work on that are not papers), and Other (everything else).
 
 <ul class="post-list">
     {% for post in paginator.posts %}

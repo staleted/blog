@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: Projects
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: Projects
 ---
 
 <ul class="post-list">

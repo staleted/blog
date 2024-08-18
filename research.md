@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: Research
 ---
 
 <ul class="post-list">
