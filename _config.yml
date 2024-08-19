@@ -31,5 +31,9 @@ collections:
   other:
     output: true
     permalink: /other/:path/
+  contact:
+    output: true
+    permalink: /contact/:path/
+
 
 
