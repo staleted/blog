@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /other/
-title: Other
+permalink: /implementations/
+title: Implementations
 description: Items that don't belong in the other categories.
 ---
 

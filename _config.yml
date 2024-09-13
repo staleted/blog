@@ -28,9 +28,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  other:
+  implementations:
     output: true
-    permalink: /other/:path/
+    permalink: /implementations/:path/
   contact:
     output: true
     permalink: /contact/:path/
